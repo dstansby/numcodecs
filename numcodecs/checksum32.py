@@ -1,4 +1,5 @@
-from typing import Optional, Callable, TYPE_CHECKING
+from typing import Optional, TYPE_CHECKING
+from collections.abc import Callable
 import zlib
 
 import numpy as np
